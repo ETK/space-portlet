@@ -6,6 +6,7 @@
    http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd">
    <portlet>
      <portlet-name>SpaceApplication</portlet-name>
+     <description xml:lang="EN">Space Application Portlet</description>
      <display-name xml:lang="EN">Space Application</display-name>
      <portlet-class>org.juzu.portlet.JuzuPortlet</portlet-class>
      <init-param>
