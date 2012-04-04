@@ -15,7 +15,6 @@ import org.juzu.Path;
 import org.juzu.Resource;
 import org.juzu.SessionScoped;
 import org.juzu.View;
-import org.juzu.impl.application.InternalApplicationContext;
 import org.juzu.plugin.ajax.Ajax;
 import org.juzu.request.RequestContext;
 import org.social.portlet.models.SpaceBean;
